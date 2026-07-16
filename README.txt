@@ -1,0 +1,1 @@
+Este diretório contem quase todos os projetos que fiz durante meu curso de Analista de Dados na EBAC.
